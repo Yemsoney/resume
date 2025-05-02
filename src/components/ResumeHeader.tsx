@@ -19,8 +19,8 @@ const ResumeHeader = ({ name, title, email, phone, website, profile }: ResumeHea
         <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden bg-yellow-100 border-4 border-yellow-500 mx-auto md:mx-0">
           <img 
           
-            src="/public/image.jpg" // Replace with your image path 
-            alt="Nina Lane"
+            src="https://avatars.githubusercontent.com/u/176298930?v=4" // Replace with your image path 
+            alt="Profile"
             className="w-full h-full object-cover"
           />
         </div>
