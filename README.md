@@ -1,24 +1,30 @@
+# Yem Soney - Junior Web Developer Resume
 
-Follow these steps:
+This is a personal resume website built using React. It showcases basic personal information, education, contact, and more.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Live Demo
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+[![View Resume](https://img.shields.io/badge/View-Resume-brightgreen?style=for-the-badge)](https://resume-sandy-five-78.vercel.app)
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Features
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- Personal info (name, age, address, etc.)
+- Contact details (email, phone, GitHub)
+- Experience section
+- Clean and simple layout
+- Responsive design
 
-This project is built with:
+## Technologies Used
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- React.js
+- HTML5 & CSS3
+- JavaScript (ES6)
+- Hosted on [Vercel](https://vercel.com)
+
+## Getting Started Locally
+
+1. Clone the repo:
+   `bash
+   git clone https://github.com/Yemsoney/your-repo-name.git
+   cd your-repo-name
+   
